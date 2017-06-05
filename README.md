@@ -1,0 +1,2 @@
+# ScreenShots
+Screenshot storage location
